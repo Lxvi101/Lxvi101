@@ -18,6 +18,7 @@
 - 🤝 **[Joinup.ch](https://joinup.ch)** — Job platform to connect startups and students. Currently in the works. In collab with ETH.
 - 🛍️ **[Paperize](https://paperize.store)** — Germany's best-rated paper film for iPads. Germany's Best Student Company 2023.
 - 🎯 **[Creatorfly](https://creatorfly.app)** — Influencer marketing platform for e-commerce brands.
+- 🎨 **[Shopify Pulsar](https://apps.shopify.com/pulsar)** - Make your shopify's headlines convert by giving them advanced css styles & animations.
 
 ---
 
@@ -44,6 +45,14 @@
 | 🚀 [KSPTrajectories](https://github.com/Lxvi101/KSPTrajectories) | Opening up the KSP Trajectories mod to script reliable, reusable SpaceX-style rocket landings with kRPC |
 
 ---
+
+### Things that I'm builiding in Stealth mode
+
+| Project | What it does |
+|---|---|
+| 🧾 InvoiceEngine | Save hours with AI generated, one-shot Invoices for your companies. |  
+| 📟 Swarm | Populate your Todo, let the agents do the rest. |
+| ❓ **** | *** |
 
 ### Stack
 
